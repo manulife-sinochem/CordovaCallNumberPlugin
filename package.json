@@ -1,0 +1,31 @@
+{
+  "name": "call-number",
+  "version": "1.0.4",
+  "description": "Call Number from Cordova Application",
+  "cordova": {
+    "id": "call-number",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/MBPSCD/CordovaCallNumberPlugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "call",
+    "dialer",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://gitee.com/MBPSCD/CordovaCallNumberPlugin/issues"
+  },
+  "homepage": "https://gitee.com/MBPSCD/CordovaCallNumberPlugin#readme"
+}
